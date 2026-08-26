@@ -1,0 +1,5 @@
+# Mirab — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://majidalawa.github.io/cars/sitemap.xml
